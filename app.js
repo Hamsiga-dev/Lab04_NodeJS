@@ -1,0 +1,1 @@
+console.log("My first NodeJS app for Lab 04");
